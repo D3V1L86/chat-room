@@ -1,6 +1,4 @@
-# chat-room
-
-**Chat-Room via connexion TCP**
+# Chat-Room via connexion TCP
 
 **PRÉ-RECQUIS** 
 
