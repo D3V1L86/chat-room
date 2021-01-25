@@ -55,7 +55,7 @@ def listen_for_client(cs):
 while True:
 
     client_socket, client_address = s.accept()
-    print(f"[+] {client_address} connecter avec succès.")
+    print(f"[+] {client_address} connecté avec succès.")
 
     client_sockets.add(client_socket)
 

@@ -34,7 +34,7 @@ separator_token = "<SEP>"
 s = socket.socket()
 print(f"[*] Connexion en cours sur {SERVER_HOST}:{SERVER_PORT}...")
 s.connect((SERVER_HOST, SERVER_PORT))
-print("[+] Connecter avec succées.")
+print("[+] Connecté avec succès.")
 print("\n")
 name = input("Votre Pseudonyme : ")
 
